@@ -1,0 +1,15 @@
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\bin\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.deps.json
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\bin\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.runtimeconfig.json
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\bin\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.runtimeconfig.dev.json
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\bin\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.dll
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\obj\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.csprojAssemblyReference.cache
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\obj\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.csproj.CoreCompileInputs.cache
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\obj\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.AssemblyInfoInputs.cache
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\obj\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.AssemblyInfo.cs
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\bin\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.pdb
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\obj\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.dll
+C:\Users\rabelani.denga\source\repos\DigiOutsourceTechnicalAssessment\DigiOutsourceTechnicalAssessment\obj\Debug\netcoreapp2.1\DigiOutsourceTechnicalAssessment.pdb
